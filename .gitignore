@@ -1,0 +1,5 @@
+﻿bin/
+obj/
+Publish/
+*.user
+*.suo
